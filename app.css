@@ -613,4 +613,11 @@ footer .content {
     .nav-menu.active {
         left: 0;
     }
+     .latest{
+        height: 300px;
+    }
+
+    .video {
+        height: 320px;
+    }
 }
